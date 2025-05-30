@@ -6,7 +6,6 @@ Bangalore Explorer is a Python-based mini project that helps users plan their tr
 ## Contributors
 - ROSHAN IMMANUEL (<roshan7156@gmail.com>)
 - SAI GOKUL K P (<saigokulkp29@outlook.com>)
-- ROHAN S (<rohansati04@gmail.com>)
 
 
 ## Features
@@ -16,6 +15,7 @@ Bangalore Explorer is a Python-based mini project that helps users plan their tr
 ## Technologies Used
 - Python (streamlit, sql_connector)
 - SQL
+- PHP
 
 ## Getting Started
 1. Clone the repository.
