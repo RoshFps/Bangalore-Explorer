@@ -24,7 +24,7 @@ Bangalore Explorer is a Python-based mini project that helps users plan their tr
 
 ## Usage
 1. Run the application.
-2. Enter your budget.
+2. Enter your budget and location of preference.
 3. Receive trip recommendations according to your inputed budget.
 
 
