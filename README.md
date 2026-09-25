@@ -3,10 +3,7 @@
 ## Description
 Bangalore Explorer is a Python-based mini project that helps users plan their trips by storing information about hangouts, restaurants, buses, and their prices. It uses SQL for data storage and provides recommendations based on the user's budget.
 
-## Contributors
 - Roshan Immanuel (<roshan7156@gmail.com>)
-- Sai Gokul (<saigokulkp29@outlook.com>)
-
 
 ## Features
 - Store information about hangouts, restaurants, buses, and their prices.
