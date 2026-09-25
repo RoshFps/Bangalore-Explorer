@@ -1,10 +1,9 @@
 # Bangalore Explorer
 
-[![CI](https://github.com/RoshFps/Bangalore-Explorer/actions/workflows/ci.yml/badge.svg)](https://github.com/RoshFps/Bangalore-Explorer/actions/workflows/ci.yml)
-![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B)
+## Description
+Bangalore Explorer is a Python-based mini project that helps users plan their trips by storing information about hangouts, restaurants, buses, and their prices. It uses SQL for data storage and provides recommendations based on the user's budget.
 
-A budget-based day-trip planner for Bangalore. Choose what you want to do (restaurants, games, malls, hangouts), set a budget and an optional area. The app finds combinations of places in the same area that fit the budget, with a fixed amount kept aside for bus fare, and lists the buses that stop there.
+- Roshan Immanuel (<roshan7156@gmail.com>)
 
 ## Features
 
