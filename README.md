@@ -60,18 +60,6 @@ tests/                Unit tests (no database needed)
 python -m unittest discover -s tests -t . -v
 ```
 
-## Screenshots
-
-<img width="960" alt="Planner" src="https://github.com/saigokul290/trip-planner/assets/87557049/2463c48f-5e6e-4822-bd1c-28ca50a1751b">
-<img width="956" alt="Results" src="https://github.com/saigokul290/trip-planner/assets/87557049/2f854ef6-d6de-4745-86ae-9c0a95e3f7c9">
-
-*Screenshots show the original version of the UI.*
-
-## Contributors
-
-- Roshan Immanuel (<roshan7156@gmail.com>)
-- Sai Gokul (<saigokulkp29@outlook.com>)
-
 ## License
 
 MIT, see [LICENSE](LICENSE).
